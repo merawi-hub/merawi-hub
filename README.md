@@ -1,4 +1,5 @@
-(https://github.com/user-attachments/assets/e055619b-51f7-4d8a-9420-e30bfae98845)
+![Banner](https://github.com/user-attachments/assets/e055619b-51f7-4d8a-9420-e30bfae98845)
+
 
 # 👋 Hello, I'm Merawi Kelemework
 
